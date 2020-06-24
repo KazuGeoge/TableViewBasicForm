@@ -13,7 +13,7 @@
 		AF8561B324A2D6AF00D90C3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF8561B124A2D6AF00D90C3D /* Main.storyboard */; };
 		AF8561B524A2D6B100D90C3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF8561B424A2D6B100D90C3D /* Assets.xcassets */; };
 		AF8561B824A2D6B100D90C3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF8561B624A2D6B100D90C3D /* LaunchScreen.storyboard */; };
-		AF8561C024A2D6D400D90C3D /* TableViewDataSouce.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8561BF24A2D6D400D90C3D /* TableViewDataSouce.swift */; };
+		AF8561C224A2D94400D90C3D /* TableViewDatasouce.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8561C124A2D94400D90C3D /* TableViewDatasouce.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		AF8561B424A2D6B100D90C3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF8561B724A2D6B100D90C3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF8561B924A2D6B100D90C3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AF8561BF24A2D6D400D90C3D /* TableViewDataSouce.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TableViewDataSouce.swift; path = ../../../Documents/TableViewSample/3DTouchSample/TableViewDataSouce.swift; sourceTree = "<group>"; };
+		AF8561C124A2D94400D90C3D /* TableViewDatasouce.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewDatasouce.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 				AF8561AB24A2D6AF00D90C3D /* AppDelegate.swift */,
 				AF8561AD24A2D6AF00D90C3D /* SceneDelegate.swift */,
 				AF8561AF24A2D6AF00D90C3D /* ViewController.swift */,
-				AF8561BF24A2D6D400D90C3D /* TableViewDataSouce.swift */,
+				AF8561C124A2D94400D90C3D /* TableViewDatasouce.swift */,
 				AF8561B124A2D6AF00D90C3D /* Main.storyboard */,
 				AF8561B424A2D6B100D90C3D /* Assets.xcassets */,
 				AF8561B624A2D6B100D90C3D /* LaunchScreen.storyboard */,
@@ -142,9 +142,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF8561B024A2D6AF00D90C3D /* ViewController.swift in Sources */,
+				AF8561C224A2D94400D90C3D /* TableViewDatasouce.swift in Sources */,
 				AF8561AC24A2D6AF00D90C3D /* AppDelegate.swift in Sources */,
 				AF8561AE24A2D6AF00D90C3D /* SceneDelegate.swift in Sources */,
-				AF8561C024A2D6D400D90C3D /* TableViewDataSouce.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
